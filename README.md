@@ -15,7 +15,7 @@ in Tree`
 4. Select on Filter then supply with any filter name then click `Apply
 Filter`
 5. On the right side select on `Save Settings in Explorer Tree`, on the
-`Enter Explorer Item Title` supply the payload <img src=x
-onerror=alert(document.domain)> then click OK.
+`Enter Explorer Item Title` supply the payload `<img src=x
+onerror=alert(document.domain)>` then click OK.
 
-Payload: <img src=x onerror=alert(document.domain)>
+Payload: `<img src=x onerror=alert(document.domain)>`
