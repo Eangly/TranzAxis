@@ -6,6 +6,7 @@
 - Vendor Homepage: https://compassplustechnologies.com/
 - Version: 3.2.41.10.26
 - Tested on: Window Server 2016
+- CVE-2025-66574
 
 1. Login to web application
 2. Click on `Entire System` goto `Monitoring` then click on `Terminals
